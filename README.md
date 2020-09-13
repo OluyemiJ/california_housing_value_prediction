@@ -28,7 +28,9 @@ Built transformers and combined them in a pipeline to transform the data sets. T
 **Random Forest:** RMSE = 50078.05
 
 Random Forest Regressors turned out best based on the validation process and so I tuned it:
+
 **Random Forest:** Best Params = {'max_features': 6, 'n_estimators': 30}
 
 Performance on test set:
+
 **Random Forest:** RMSE = 46491.44
