@@ -9,7 +9,8 @@
 
 ## Code and Reources Used
 This work was inspired by Aurelien Geron's Hands-On Machine-Learning with Scikit-Learn, Keras and TensorFlow book (Chapter 2) - https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/
-**Python Version:* 3.8
+
+**Python Version:** 3.8
 **Packages:** pandas, numpy, sklearn, matplotlib, six.moves, seaborn
 
 ##EDA
